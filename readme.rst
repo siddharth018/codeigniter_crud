@@ -1,3 +1,9 @@
+***************
+You can configure your database 
+***************
+Import ci_crud.sql file from route folder
+
+
 ###################
 What is CodeIgniter
 ###################
